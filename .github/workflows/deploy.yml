@@ -42,4 +42,4 @@ jobs:
           protocol: ftps
           port: 21
           local-dir: ./dist/
-          server-dir: /home/loanme5/pavementmen.com/
+          server-dir: ./
