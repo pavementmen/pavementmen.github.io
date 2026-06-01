@@ -40,4 +40,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./dist/
-          server-dir: /pavementmen.com/
+          server-dir: /home/loanme5/pavementmen.com/
